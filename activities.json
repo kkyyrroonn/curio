@@ -1,0 +1,801 @@
+[
+  {
+    "title": "Try a new recipe",
+    "description": "Pick a cuisine you've never cooked before and follow a recipe from scratch. Bonus points for dessert.",
+    "location": "indoor",
+    "budget": "low"
+  },
+  {
+    "title": "Go for a neighborhood walk",
+    "description": "Explore streets you've never walked before and notice small details around you.",
+    "location": "outdoor",
+    "budget": "free"
+  },
+  {
+    "title": "Declutter your room",
+    "description": "Organize your space and get rid of things you no longer use.",
+    "location": "indoor",
+    "budget": "free"
+  },
+  {
+    "title": "Visit a local park",
+    "description": "Spend time walking, sitting, or relaxing outdoors in a nearby park.",
+    "location": "outdoor",
+    "budget": "free"
+  },
+  {
+    "title": "Watch a documentary",
+    "description": "Pick a topic you know nothing about and learn something new.",
+    "location": "indoor",
+    "budget": "free"
+  },
+  {
+    "title": "Sketch something around you",
+    "description": "Draw an object, scene, or person using whatever materials you have.",
+    "location": "indoor",
+    "budget": "free"
+  },
+  {
+    "title": "Try geocaching",
+    "description": "Use your phone to find hidden caches in your area.",
+    "location": "outdoor",
+    "budget": "free"
+  },
+  {
+    "title": "Make a DIY gift",
+    "description": "Create a handmade gift using materials at home.",
+    "location": "indoor",
+    "budget": "low"
+  },
+  {
+    "title": "Read a short story",
+    "description": "Find a short story online or in a book and read it in one sitting.",
+    "location": "indoor",
+    "budget": "free"
+  },
+  {
+    "title": "Try a bodyweight workout",
+    "description": "Do push-ups, squats, and stretching for 20–30 minutes.",
+    "location": "indoor",
+    "budget": "free"
+  },
+  {
+    "title": "Visit a local café",
+    "description": "Sit and people-watch while enjoying a drink.",
+    "location": "outdoor",
+    "budget": "low"
+  },
+  {
+    "title": "Start a journal",
+    "description": "Write about your thoughts, goals, or daily experiences.",
+    "location": "indoor",
+    "budget": "free"
+  },
+  {
+    "title": "Take photos of nature",
+    "description": "Go outside and capture interesting plants, animals, or scenery.",
+    "location": "outdoor",
+    "budget": "free"
+  },
+  {
+    "title": "Learn basic origami",
+    "description": "Fold paper into simple shapes like cranes or boats.",
+    "location": "indoor",
+    "budget": "free"
+  },
+  {
+    "title": "Try a new podcast",
+    "description": "Listen to a podcast about a topic you normally wouldn't explore.",
+    "location": "indoor",
+    "budget": "free"
+  },
+  {
+    "title": "Go for a bike ride",
+    "description": "Explore your area while cycling at a relaxed pace.",
+    "location": "outdoor",
+    "budget": "free"
+  },
+  {
+    "title": "Do a puzzle",
+    "description": "Work on a jigsaw puzzle or brain teaser.",
+    "location": "indoor",
+    "budget": "low"
+  },
+  {
+    "title": "Visit a library",
+    "description": "Browse books and find something unexpected to read.",
+    "location": "outdoor",
+    "budget": "free"
+  },
+  {
+    "title": "Try meditation",
+    "description": "Sit quietly and focus on your breathing for 10–15 minutes.",
+    "location": "indoor",
+    "budget": "free"
+  },
+  {
+    "title": "Play a sport casually",
+    "description": "Shoot hoops, kick a ball, or throw a frisbee.",
+    "location": "outdoor",
+    "budget": "free"
+  },
+  {
+    "title": "Write a short story",
+    "description": "Create a fictional story in under 1000 words.",
+    "location": "indoor",
+    "budget": "free"
+  },
+  {
+    "title": "Try a new stretch routine",
+    "description": "Follow a beginner stretching session to relax your body.",
+    "location": "indoor",
+    "budget": "free"
+  },
+  {
+    "title": "Explore a new suburb",
+    "description": "Walk or drive through an area you've never visited before.",
+    "location": "outdoor",
+    "budget": "free"
+  },
+  {
+    "title": "Clean your browser bookmarks",
+    "description": "Organize and remove old or unused bookmarks.",
+    "location": "indoor",
+    "budget": "free"
+  },
+  {
+    "title": "Try drawing blind contour art",
+    "description": "Draw without looking at your paper to improve observation skills.",
+    "location": "indoor",
+    "budget": "free"
+  },
+  {
+    "title": "Watch the sunset",
+    "description": "Find a good spot and enjoy the sunset outdoors.",
+    "location": "outdoor",
+    "budget": "free"
+  },
+  {
+    "title": "Learn a magic trick",
+    "description": "Practice a simple card or coin trick.",
+    "location": "indoor",
+    "budget": "free"
+  },
+  {
+    "title": "Try a local walking trail",
+    "description": "Find a nearby trail and go for a light hike.",
+    "location": "outdoor",
+    "budget": "free"
+  },
+  {
+    "title": "Organize your photos",
+    "description": "Sort your digital photos into folders or albums.",
+    "location": "indoor",
+    "budget": "free"
+  },
+  {
+    "title": "Play frisbee or catch",
+    "description": "Head outside and play a casual game with a friend or solo.",
+    "location": "outdoor",
+    "budget": "free"
+  },
+  {
+    "title": "Try a YouTube workout",
+    "description": "Follow a free workout video at home.",
+    "location": "indoor",
+    "budget": "free"
+  },
+  {
+    "title": "Visit a farmers market",
+    "description": "Browse local produce and handmade goods.",
+    "location": "outdoor",
+    "budget": "low"
+  },
+  {
+    "title": "Make a vision board",
+    "description": "Cut out images and words that represent your goals.",
+    "location": "indoor",
+    "budget": "low"
+  },
+  {
+    "title": "Go cloud watching",
+    "description": "Lie outside and imagine shapes in the clouds.",
+    "location": "outdoor",
+    "budget": "free"
+  },
+  {
+    "title": "Try learning a new language",
+    "description": "Practice basic phrases using free apps or online resources.",
+    "location": "indoor",
+    "budget": "free"
+  },
+  {
+    "title": "Bake something simple",
+    "description": "Make cookies, muffins, or a basic cake from scratch.",
+    "location": "indoor",
+    "budget": "low"
+  },
+  {
+    "title": "Go bird watching",
+    "description": "Observe and identify birds in your area.",
+    "location": "outdoor",
+    "budget": "free"
+  },
+  {
+    "title": "Write a gratitude list",
+    "description": "List 10 things you're thankful for today.",
+    "location": "indoor",
+    "budget": "free"
+  },
+  {
+    "title": "Try skipping rope",
+    "description": "Do a short cardio session using a jump rope.",
+    "location": "outdoor",
+    "budget": "low"
+  },
+  {
+    "title": "Watch a stand-up comedy special",
+    "description": "Pick a comedian and enjoy a comedy set.",
+    "location": "indoor",
+    "budget": "free"
+  },
+  {
+    "title": "Try a new music genre",
+    "description": "Listen to a genre you've never explored before and note what you like.",
+    "location": "indoor",
+    "budget": "free"
+  },
+  {
+    "title": "Do a digital detox hour",
+    "description": "Spend one hour away from all screens and devices.",
+    "location": "indoor",
+    "budget": "free"
+  },
+  {
+    "title": "Walk to a random destination",
+    "description": "Pick a direction and walk until you find something interesting.",
+    "location": "outdoor",
+    "budget": "free"
+  },
+  {
+    "title": "Try yoga",
+    "description": "Follow a beginner yoga session for relaxation and flexibility.",
+    "location": "indoor",
+    "budget": "free"
+  },
+  {
+    "title": "Visit a viewpoint",
+    "description": "Find a scenic overlook and enjoy the view.",
+    "location": "outdoor",
+    "budget": "free"
+  },
+  {
+    "title": "Create a playlist",
+    "description": "Build a playlist for a mood like focus, happiness, or relaxation.",
+    "location": "indoor",
+    "budget": "free"
+  },
+  {
+    "title": "Try calligraphy",
+    "description": "Practice decorative handwriting using pens or markers.",
+    "location": "indoor",
+    "budget": "low"
+  },
+  {
+    "title": "Go for a photo walk",
+    "description": "Take your phone or camera and capture interesting scenes.",
+    "location": "outdoor",
+    "budget": "free"
+  },
+  {
+    "title": "Solve riddles",
+    "description": "Challenge yourself with brain teasers and puzzles online.",
+    "location": "indoor",
+    "budget": "free"
+  },
+  {
+    "title": "Try rollerblading or skating",
+    "description": "Practice skating in a safe outdoor area.",
+    "location": "outdoor",
+    "budget": "low"
+  },
+  {
+    "title": "Clean your workspace",
+    "description": "Organize your desk or study area for better focus.",
+    "location": "indoor",
+    "budget": "free"
+  },
+  {
+    "title": "Visit a beach or river",
+    "description": "Spend time near water and relax outdoors.",
+    "location": "outdoor",
+    "budget": "free"
+  },
+  {
+    "title": "Try speed reading practice",
+    "description": "Practice reading faster while retaining comprehension.",
+    "location": "indoor",
+    "budget": "free"
+  },
+  {
+    "title": "Make homemade pizza",
+    "description": "Prepare pizza from scratch with your favorite toppings.",
+    "location": "indoor",
+    "budget": "low"
+  },
+  {
+    "title": "Go stargazing",
+    "description": "Look at the night sky and try to identify constellations.",
+    "location": "outdoor",
+    "budget": "free"
+  },
+  {
+    "title": "Try journaling prompts",
+    "description": "Write based on creative or reflective prompts.",
+    "location": "indoor",
+    "budget": "free"
+  },
+  {
+    "title": "Visit a historic site",
+    "description": "Explore a local landmark or historical location.",
+    "location": "outdoor",
+    "budget": "free"
+  },
+  {
+    "title": "Do a home workout challenge",
+    "description": "Try a 30-day fitness challenge or quick routine.",
+    "location": "indoor",
+    "budget": "free"
+  },
+  {
+    "title": "Try planting seeds",
+    "description": "Start a small herb or plant garden at home.",
+    "location": "indoor",
+    "budget": "low"
+  },
+  {
+    "title": "Watch airplanes or trains",
+    "description": "Visit a spot where you can observe transport activity.",
+    "location": "outdoor",
+    "budget": "free"
+  },
+  {
+    "title": "Private Yacht Charter",
+    "description": "Luxury sailing experience on a private yacht with crew service.",
+    "location": "outdoor",
+    "budget": "high"
+  },
+  {
+    "title": "Helicopter City Tour",
+    "description": "Scenic aerial tour over the city skyline and landmarks.",
+    "location": "outdoor",
+    "budget": "high"
+  },
+  {
+    "title": "Michelin Star Dining Experience",
+    "description": "Exclusive multi-course meal at a Michelin-star restaurant.",
+    "location": "indoor",
+    "budget": "high"
+  },
+  {
+    "title": "Luxury Spa Retreat",
+    "description": "Full-day premium spa with massages and wellness treatments.",
+    "location": "indoor",
+    "budget": "high"
+  },
+  {
+    "title": "Private Wine Vineyard Tour",
+    "description": "Guided tasting and tour through an exclusive vineyard.",
+    "location": "outdoor",
+    "budget": "high"
+  },
+  {
+    "title": "Hot Air Balloon Ride",
+    "description": "Sunrise balloon flight over scenic landscapes.",
+    "location": "outdoor",
+    "budget": "high"
+  },
+  {
+    "title": "Luxury Shopping Spree",
+    "description": "Personal stylist guided shopping at high-end boutiques.",
+    "location": "indoor",
+    "budget": "high"
+  },
+  {
+    "title": "Private Concert Experience",
+    "description": "Intimate live performance by a renowned artist.",
+    "location": "indoor",
+    "budget": "high"
+  },
+  {
+    "title": "Island Resort Stay",
+    "description": "Luxury stay at an exclusive private island resort.",
+    "location": "outdoor",
+    "budget": "high"
+  },
+  {
+    "title": "Sports Car Track Day",
+    "description": "Drive exotic supercars on a professional race track.",
+    "location": "outdoor",
+    "budget": "high"
+  },
+
+  {
+    "title": "Private Art Gallery Tour",
+    "description": "Exclusive guided tour of a high-end art gallery.",
+    "location": "indoor",
+    "budget": "high"
+  },
+  {
+    "title": "Luxury Ski Chalet Stay",
+    "description": "Premium ski resort accommodation with private service.",
+    "location": "outdoor",
+    "budget": "high"
+  },
+  {
+    "title": "Gourmet Cooking Class",
+    "description": "Hands-on class with a celebrity chef.",
+    "location": "indoor",
+    "budget": "high"
+  },
+  {
+    "title": "Deep Sea Fishing Charter",
+    "description": "Private boat fishing trip in open waters.",
+    "location": "outdoor",
+    "budget": "high"
+  },
+  {
+    "title": "Private Film Screening",
+    "description": "Exclusive cinema screening with personalized service.",
+    "location": "indoor",
+    "budget": "high"
+  },
+  {
+    "title": "Luxury Safari Experience",
+    "description": "Guided wildlife safari with premium lodging.",
+    "location": "outdoor",
+    "budget": "high"
+  },
+  {
+    "title": "Personal Trainer Bootcamp",
+    "description": "High-end fitness coaching session tailored to goals.",
+    "location": "indoor",
+    "budget": "high"
+  },
+  {
+    "title": "Private Jet Experience",
+    "description": "Chartered private jet travel with luxury amenities.",
+    "location": "outdoor",
+    "budget": "high"
+  },
+  {
+    "title": "Opera VIP Box Seating",
+    "description": "Exclusive viewing experience at a live opera performance.",
+    "location": "indoor",
+    "budget": "high"
+  },
+  {
+    "title": "Luxury Golf Course Access",
+    "description": "Play at a world-class private golf course.",
+    "location": "outdoor",
+    "budget": "high"
+  },
+
+  {
+    "title": "Designer Furniture Shopping",
+    "description": "Curated access to premium interior design stores.",
+    "location": "indoor",
+    "budget": "high"
+  },
+  {
+    "title": "Scenic Private Train Journey",
+    "description": "Luxury rail travel through scenic countryside.",
+    "location": "outdoor",
+    "budget": "high"
+  },
+  {
+    "title": "High-End Cocktail Workshop",
+    "description": "Mixology class with expert bartenders.",
+    "location": "indoor",
+    "budget": "high"
+  },
+  {
+    "title": "Private Beach Picnic",
+    "description": "Luxury catered picnic on a secluded beach.",
+    "location": "outdoor",
+    "budget": "high"
+  },
+  {
+    "title": "Luxury Wellness Clinic Visit",
+    "description": "Advanced health and wellness treatments.",
+    "location": "indoor",
+    "budget": "high"
+  },
+  {
+    "title": "Mountain Helicopter Landing",
+    "description": "Helicopter ride landing on a remote mountain peak.",
+    "location": "outdoor",
+    "budget": "high"
+  },
+  {
+    "title": "Exclusive Bookstore Experience",
+    "description": "Private browsing and rare book selection session.",
+    "location": "indoor",
+    "budget": "high"
+  },
+  {
+    "title": "Luxury Camping Glamping",
+    "description": "High-end camping with full amenities in nature.",
+    "location": "outdoor",
+    "budget": "high"
+  },
+  {
+    "title": "Private Dance Lesson",
+    "description": "One-on-one instruction with a professional dancer.",
+    "location": "indoor",
+    "budget": "high"
+  },
+  {
+    "title": "Luxury Cruise Experience",
+    "description": "Premium cruise with fine dining and entertainment.",
+    "location": "outdoor",
+    "budget": "high"
+  },
+
+  {
+    "title": "High-End Photography Session",
+    "description": "Professional portrait session with luxury styling.",
+    "location": "indoor",
+    "budget": "high"
+  },
+  {
+    "title": "Private Hiking Expedition",
+    "description": "Guided trek through remote scenic trails.",
+    "location": "outdoor",
+    "budget": "high"
+  },
+  {
+    "title": "Luxury Chocolate Tasting",
+    "description": "Exclusive tasting of artisan chocolates.",
+    "location": "indoor",
+    "budget": "high"
+  },
+  {
+    "title": "Horseback Riding Estate Tour",
+    "description": "Ride through private countryside estates.",
+    "location": "outdoor",
+    "budget": "high"
+  },
+  {
+    "title": "VIP Museum Access",
+    "description": "Private after-hours museum tour.",
+    "location": "indoor",
+    "budget": "high"
+  },
+  {
+    "title": "Luxury Kayaking Adventure",
+    "description": "Guided kayaking in scenic waters with premium gear.",
+    "location": "outdoor",
+    "budget": "high"
+  },
+  {
+    "title": "Private Yoga Retreat",
+    "description": "Luxury wellness yoga and meditation session.",
+    "location": "indoor",
+    "budget": "high"
+  },
+  {
+    "title": "Sunset Catamaran Cruise",
+    "description": "Evening sailing experience with gourmet dining.",
+    "location": "outdoor",
+    "budget": "high"
+  },
+  {
+    "title": "Luxury Perfume Making Class",
+    "description": "Create a custom fragrance with expert perfumers.",
+    "location": "indoor",
+    "budget": "high"
+  },
+  {
+    "title": "Private Wildlife Photography Tour",
+    "description": "Guided outdoor photography in natural habitats.",
+    "location": "outdoor",
+    "budget": "high"
+  },
+
+  {
+    "title": "High-End VR Gaming Lounge",
+    "description": "Immersive virtual reality gaming experience.",
+    "location": "indoor",
+    "budget": "high"
+  },
+  {
+    "title": "Luxury Desert Safari",
+    "description": "Premium off-road desert adventure with dinner.",
+    "location": "outdoor",
+    "budget": "high"
+  },
+  {
+    "title": "Private Wine Blending Session",
+    "description": "Create your own custom wine blend.",
+    "location": "indoor",
+    "budget": "high"
+  },
+  {
+    "title": "Exclusive Coastal Cliff Walk",
+    "description": "Guided scenic walk along dramatic cliffs.",
+    "location": "outdoor",
+    "budget": "high"
+  },
+  {
+    "title": "Luxury Pottery Workshop",
+    "description": "Hands-on ceramic art session with expert guidance.",
+    "location": "indoor",
+    "budget": "high"
+  },
+  {
+    "title": "Private Waterfall Excursion",
+    "description": "Guided hike to secluded waterfalls.",
+    "location": "outdoor",
+    "budget": "high"
+  },
+  {
+    "title": "VIP Theater Experience",
+    "description": "Premium seating and backstage access at a show.",
+    "location": "indoor",
+    "budget": "high"
+  },
+  {
+    "title": "Luxury Sailing Lesson",
+    "description": "Private sailing instruction on a luxury vessel.",
+    "location": "outdoor",
+    "budget": "high"
+  },
+  {
+    "title": "High-End Jewelry Workshop",
+    "description": "Design and craft custom jewelry pieces.",
+    "location": "indoor",
+    "budget": "high"
+  },
+  {
+    "title": "Private Paragliding Experience",
+    "description": "Tandem paragliding over scenic terrain.",
+    "location": "outdoor",
+    "budget": "high"
+  },
+
+  {
+    "title": "Luxury Tea Ceremony",
+    "description": "Traditional ceremonial tea experience with premium service.",
+    "location": "indoor",
+    "budget": "high"
+  },
+  {
+    "title": "Private Island Hopping Tour",
+    "description": "Exclusive boat tour between tropical islands.",
+    "location": "outdoor",
+    "budget": "high"
+  },
+  {
+    "title": "High-End Interior Design Consultation",
+    "description": "Personalized luxury home design session.",
+    "location": "indoor",
+    "budget": "high"
+  },
+  {
+    "title": "Luxury Cycling Tour",
+    "description": "Guided bike tour through scenic routes.",
+    "location": "outdoor",
+    "budget": "high"
+  },
+  {
+    "title": "Private Astronomy Experience",
+    "description": "Indoor observatory session with expert astronomer.",
+    "location": "indoor",
+    "budget": "high"
+  },
+  {
+    "title": "Luxury River Rafting",
+    "description": "Premium guided rafting adventure.",
+    "location": "outdoor",
+    "budget": "high"
+  },
+  {
+    "title": "Private Fashion Design Session",
+    "description": "Work with a designer to create custom clothing.",
+    "location": "indoor",
+    "budget": "high"
+  },
+  {
+    "title": "Luxury Coastal Drive",
+    "description": "Chauffeured scenic drive along coastal roads.",
+    "location": "outdoor",
+    "budget": "high"
+  },
+  {
+    "title": "High-End Chess Coaching",
+    "description": "Private lessons with a master chess player.",
+    "location": "indoor",
+    "budget": "high"
+  },
+  {
+    "title": "Luxury Hot Spring Resort",
+    "description": "Relaxation in premium natural hot springs.",
+    "location": "outdoor",
+    "budget": "high"
+  },
+
+  {
+    "title": "Private Film Production Tour",
+    "description": "Behind-the-scenes access to a film studio.",
+    "location": "indoor",
+    "budget": "high"
+  },
+  {
+    "title": "Luxury Cliff Diving Experience",
+    "description": "Supervised high-adrenaline cliff diving.",
+    "location": "outdoor",
+    "budget": "high"
+  },
+  {
+    "title": "Exclusive Writing Workshop",
+    "description": "Creative writing class with a published author.",
+    "location": "indoor",
+    "budget": "high"
+  },
+  {
+    "title": "Luxury Sailing Regatta Experience",
+    "description": "Participate in a high-end sailing competition.",
+    "location": "outdoor",
+    "budget": "high"
+  },
+  {
+    "title": "Private Sculpture Class",
+    "description": "Create art with professional sculpting tools.",
+    "location": "indoor",
+    "budget": "high"
+  },
+  {
+    "title": "Luxury Jungle Expedition",
+    "description": "Guided exploration through dense rainforest.",
+    "location": "outdoor",
+    "budget": "high"
+  },
+  {
+    "title": "High-End Language Immersion",
+    "description": "Intensive private language tutoring session.",
+    "location": "indoor",
+    "budget": "high"
+  },
+  {
+    "title": "Luxury Horse Racing Experience",
+    "description": "VIP viewing and behind-the-scenes access.",
+    "location": "outdoor",
+    "budget": "high"
+  },
+  {
+    "title": "Private Meditation Dome",
+    "description": "Guided meditation in a premium soundproof space.",
+    "location": "indoor",
+    "budget": "high"
+  },
+  {
+    "title": "Luxury Glacier Tour",
+    "description": "Scenic exploration of glaciers with expert guide.",
+    "location": "outdoor",
+    "budget": "high"
+  },
+
+  {
+    "title": "High-End Podcast Studio Session",
+    "description": "Record a professional podcast episode.",
+    "location": "indoor",
+    "budget": "high"
+  },
+  {
+    "title": "Luxury Mountain Trekking Camp",
+    "description": "Multi-day guided trekking with premium camping.",
+    "location": "outdoor",
+    "budget": "high"
+  }
+]

@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Curio - Boredom Buster</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Bored?</h1>
+      <p class="subtitle">Let's find something for you to do.</p>
+
+      <!-- Filters -->
+      <div class="filters">
+        <div class="filter-group">
+          <label>Location</label>
+          <div class="toggle-group">
+            <button class="toggle active" data-value="any">Any</button>
+            <button class="toggle" data-value="indoor">Indoor</button>
+            <button class="toggle" data-value="outdoor">Outdoor</button>
+          </div>
+        </div>
+
+        <div class="filter-group">
+          <label for="budget">Budget</label>
+          <select id="budget">
+            <option value="any">Any</option>
+            <option value="free">Free</option>
+            <option value="low">Low</option>
+            <option value="high">High</option>
+          </select>
+        </div>
+      </div>
+
+      <!-- Activity Card -->
+      <div class="card">
+        <h2 id="activity-title">Hit the button to get started</h2>
+        <p id="activity-description">Your activity will appear here.</p>
+        <span id="activity-tags"></span>
+      </div>
+
+      <!-- Button -->
+      <button id="generate-btn">Try Another</button>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>
